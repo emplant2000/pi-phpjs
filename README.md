@@ -1,4 +1,4 @@
-# pi-phpjs
+# pi-phpjs 単純変換
 pi-nodejs transcoded as copilot
 
 /pi-php-demo
